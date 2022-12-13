@@ -51,9 +51,9 @@ body, html{
 }
 
 .fundo1::before{
-    background-image: url(/IMG/IMG1.jpg);
+    background-image: url(IMG/IMG1.jpg);
 }
 
 .fundo2::before{
-    background-image: url(/IMG/IMG2.jpg);
+    background-image: url(IMG/IMG2.jpg);
 }
